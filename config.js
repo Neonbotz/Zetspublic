@@ -8,18 +8,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'WibuX',
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6287719424487']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
+global.ownername = 'Agungxัี'
+global.botname = 'Ticha Botzzีั え'
+global.packname = '© Ticha Botzzีั え'
+global.gc = ''
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
+global.author = '@agungx.xy\n@ticha.xy'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
